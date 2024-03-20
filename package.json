@@ -1,0 +1,28 @@
+{
+  "name": "reactive-svg-icons-generator",
+  "version": "1.0.1",
+  "description": "Generate SVG icons reactively in your React app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/campoy83/reactive-svg-icons-generator"
+  },
+  "keywords": [
+    "react",
+    "svg",
+    "icons"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "@svgdotjs/svg.js": "^3.0.16",
+    "lodash": "^4.17.20"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1"
+  }
+}
